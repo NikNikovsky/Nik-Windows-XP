@@ -1,0 +1,7 @@
+[Commands]
+"rundll32 advpack.dll,LaunchINFSection nLite.inf,U"
+"start D:\SUPPORT\TOOLS\UTILS\net2.exe"
+"start D:\SUPPORT\TOOLS\UTILS\Opera.exe"
+"start D:\SUPPORT\TOOLS\UTILS\7Z.exe"
+"start D:\SUPPORT\TOOLS\UTILS\Firefox.exe"
+"start D:\SUPPORT\TOOLS\MANDATORY\LegacyUpdate.exe"
