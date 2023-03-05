@@ -1,0 +1,12 @@
+[UserData]
+OrgName = "%ORGNAME%"
+ComputerName = %MACHINENAME%
+
+[GuiUnattended]
+TimeZone = %TIMEZONE%
+
+[Networking]
+
+[Identification]
+JoinDomain = %MACHINEDOMAIN%
+DoOldStyleDomainJoin = Yes
