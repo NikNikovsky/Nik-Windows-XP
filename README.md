@@ -1,4 +1,4 @@
-# NikWindowsXP*
+# Nik's Windows XP
 This is my attempt at making a custom Windows XP installation
 
 (The product key is **not** included)
